@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Hi, I’m Yashwardhan! I’m a front-end developer with 1 years of experience in creating user-friendly web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Android Development",
+      "description": " I am passionate about creating intuitive and responsive mobile designs with react native framework that enhance the user experience"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Screenshot1.png",
+      "title": "Gym Website",
+      "description": "Developed a Gym Website where user can view the plans and also able to subscribe the plan.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/Screenshot2.png",
+      "title": "Twitter Clone",
+      "description": "Developed a custom Twitter clone and incorporated the functionality of posting tweets, liking them, and leaving comments.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/Screenshot3.png",
+      "title": "Google Docs Clone",
+      "description": "Created a google docs clone where user can write edit and save the content.",
+      "link": "View In Github"
+    }
+  ]
+}
